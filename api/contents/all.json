@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-02T23:12:09.879245Z",
+      "created": "2022-08-02T23:31:47.104982Z",
       "format": null,
-      "last_modified": "2022-08-02T23:10:45.438162Z",
+      "last_modified": "2022-08-02T23:31:45.004944Z",
+      "mimetype": null,
+      "name": "compaslab-0.1-py3-none-any.whl",
+      "path": "compaslab-0.1-py3-none-any.whl",
+      "size": 4817,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T23:31:47.104982Z",
+      "format": null,
+      "last_modified": "2022-08-02T23:30:29.303439Z",
       "mimetype": "text/x-python",
       "name": "setup.py",
       "path": "setup.py",
@@ -14,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-02T23:12:09.879245Z",
+      "created": "2022-08-02T23:31:47.104982Z",
       "format": null,
-      "last_modified": "2022-08-02T23:12:09.879245Z",
+      "last_modified": "2022-08-02T23:31:47.104982Z",
       "mimetype": null,
       "name": "compaslab",
       "path": "compaslab",
@@ -26,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-02T23:12:09.875245Z",
+      "created": "2022-08-02T23:31:47.100982Z",
       "format": null,
-      "last_modified": "2022-08-02T23:11:48.103041Z",
+      "last_modified": "2022-08-02T23:31:29.424661Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -37,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-02T23:12:09.879245Z",
+  "created": "2022-08-02T23:31:47.104982Z",
   "format": "json",
-  "last_modified": "2022-08-02T23:12:09.879245Z",
+  "last_modified": "2022-08-02T23:31:47.104982Z",
   "mimetype": null,
   "name": "",
   "path": "",
