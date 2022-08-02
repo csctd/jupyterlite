@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-02T18:48:59.480439Z",
+      "created": "2022-08-02T23:12:09.879245Z",
       "format": null,
-      "last_modified": "2022-08-02T18:48:59.480439Z",
+      "last_modified": "2022-08-02T23:10:45.438162Z",
+      "mimetype": "text/x-python",
+      "name": "setup.py",
+      "path": "setup.py",
+      "size": 439,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T23:12:09.879245Z",
+      "format": null,
+      "last_modified": "2022-08-02T23:12:09.879245Z",
       "mimetype": null,
       "name": "compaslab",
       "path": "compaslab",
@@ -14,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-02T18:48:59.476438Z",
+      "created": "2022-08-02T23:12:09.875245Z",
       "format": null,
-      "last_modified": "2022-08-02T18:48:57.332294Z",
+      "last_modified": "2022-08-02T23:11:48.103041Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-02T18:48:59.476438Z",
+  "created": "2022-08-02T23:12:09.879245Z",
   "format": "json",
-  "last_modified": "2022-08-02T18:48:59.476438Z",
+  "last_modified": "2022-08-02T23:12:09.879245Z",
   "mimetype": null,
   "name": "",
   "path": "",

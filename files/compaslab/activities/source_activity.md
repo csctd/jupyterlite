@@ -460,14 +460,13 @@ Let's investigate how that score compares.
 1. Use `df.apply` to apply your function and add a column to the data frame with the corels score
 1. Evaluate the CORELS prediction with respect to accuracy, and fairnss follwing the above
 
-Starter code is in `%load code/corels`
+
 
 ```{code-cell} ipython3
 df['age_cat'].value_counts()
 ```
 
 ```{code-cell} ipython3
-# %load code/corels
 
 def corels_rule(row):
     if row['priors_count'] > 3:
