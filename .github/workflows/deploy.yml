@@ -25,6 +25,7 @@ jobs:
         run: |
           cp README.md content
           cd content
+          python -m pip install build
           python -m build
           mv dist/*.whl ..
           rm -rf compaslab.egg-info
