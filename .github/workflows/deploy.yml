@@ -27,7 +27,7 @@ jobs:
           cd content
           python -m pip install build
           python -m build
-          mv dist/*.whl ..
+          mv dist/*.whl .
           rm -rf compaslab.egg-info
           rm -rf dist
           cd ..
