@@ -30,6 +30,7 @@ jobs:
           mv dist/*.whl ..
           rm -rf compaslab.egg-info
           rm -rf dist
+          cd ..
           jupyter lite build --contents content
       - name: Upload (dist)
         uses: actions/upload-artifact@v2
