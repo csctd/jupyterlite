@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.480439Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:47:49.951664Z",
+      "mimetype": "text/x-python",
+      "name": "tutorial.py",
+      "path": "compaslab/tutorial.py",
+      "size": 7366,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.480439Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:47:49.951664Z",
+      "mimetype": "text/x-python",
+      "name": "utilities.py",
+      "path": "compaslab/utilities.py",
+      "size": 1996,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.476438Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:47:49.947664Z",
+      "mimetype": "text/x-python",
+      "name": "__init__.py",
+      "path": "compaslab/__init__.py",
+      "size": 66,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.480439Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:48:59.480439Z",
+      "mimetype": null,
+      "name": "activities",
+      "path": "compaslab/activities",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.480439Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:47:49.951664Z",
+      "mimetype": "text/x-python",
+      "name": "data.py",
+      "path": "compaslab/data.py",
+      "size": 241,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-02T18:48:59.480439Z",
+  "format": "json",
+  "last_modified": "2022-08-02T18:48:59.480439Z",
+  "mimetype": null,
+  "name": "compaslab",
+  "path": "compaslab",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

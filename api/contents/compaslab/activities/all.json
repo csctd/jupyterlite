@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.476438Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:47:49.951664Z",
+      "mimetype": "text/markdown",
+      "name": "stem_academy.md",
+      "path": "compaslab/activities/stem_academy.md",
+      "size": 18118,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.480439Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:47:49.951664Z",
+      "mimetype": "text/markdown",
+      "name": "stem_academy_hints.md",
+      "path": "compaslab/activities/stem_academy_hints.md",
+      "size": 20183,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.476438Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:47:49.951664Z",
+      "mimetype": null,
+      "name": "stem_academy_hints.ipynb",
+      "path": "compaslab/activities/stem_academy_hints.ipynb",
+      "size": 28480,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.476438Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:47:49.947664Z",
+      "mimetype": null,
+      "name": "stem_academy.ipynb",
+      "path": "compaslab/activities/stem_academy.ipynb",
+      "size": 25505,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.476438Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:47:49.947664Z",
+      "mimetype": null,
+      "name": "source_activity.ipynb",
+      "path": "compaslab/activities/source_activity.ipynb",
+      "size": 26022,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T18:48:59.476438Z",
+      "format": null,
+      "last_modified": "2022-08-02T18:47:49.947664Z",
+      "mimetype": "text/markdown",
+      "name": "source_activity.md",
+      "path": "compaslab/activities/source_activity.md",
+      "size": 17579,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-02T18:48:59.480439Z",
+  "format": "json",
+  "last_modified": "2022-08-02T18:48:59.480439Z",
+  "mimetype": null,
+  "name": "activities",
+  "path": "compaslab/activities",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
