@@ -23,15 +23,16 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Build the JupyterLite site
         run: |
-          cp README.md content
+          # cp README.md content
+          mkdir files
           cd content
           python -m pip install build
           python -m build
-          mv dist/*.whl .
+          mv dist/* ..
           rm -rf compaslab.egg-info
           rm -rf dist
           cd ..
-          jupyter lite build --contents content
+          jupyter lite build --contents content --piplite-wheels compaslab-0.1-py3-none-any.whl 
       - name: Upload (dist)
         uses: actions/upload-artifact@v2
         with:
