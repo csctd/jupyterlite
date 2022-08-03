@@ -409,6 +409,13 @@
     "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
     "fullStaticUrl": "./build",
     "licensesUrl": "./lab/api/licenses",
+    "litePluginSettings": {
+      "@jupyterlite/pyolite-kernel-extension:kernel": {
+        "pipliteUrls": [
+          "./pypi/all.json?sha256=348266dcd6f65472ace70a97f11eecc03df058e4130160ac868920dbe2d62f02"
+        ]
+      }
+    },
     "mathjaxConfig": "TeX-AMS_CHTML-full,Safe"
   },
   "jupyter-lite-schema-version": 0

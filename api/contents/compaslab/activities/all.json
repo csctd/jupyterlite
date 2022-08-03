@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-02T23:31:47.100982Z",
+      "created": "2022-08-03T00:42:54.294671Z",
       "format": null,
-      "last_modified": "2022-08-02T23:30:29.303439Z",
+      "last_modified": "2022-08-03T00:41:27.279161Z",
       "mimetype": "text/markdown",
       "name": "stem_academy.md",
       "path": "compaslab/activities/stem_academy.md",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-02T23:31:47.104982Z",
+      "created": "2022-08-03T00:42:54.294671Z",
       "format": null,
-      "last_modified": "2022-08-02T23:30:29.303439Z",
+      "last_modified": "2022-08-03T00:41:27.279161Z",
       "mimetype": "text/markdown",
       "name": "stem_academy_hints.md",
       "path": "compaslab/activities/stem_academy_hints.md",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-02T23:31:47.104982Z",
+      "created": "2022-08-03T00:42:54.294671Z",
       "format": null,
-      "last_modified": "2022-08-02T23:30:29.303439Z",
+      "last_modified": "2022-08-03T00:41:27.279161Z",
       "mimetype": null,
       "name": "stem_academy_hints.ipynb",
       "path": "compaslab/activities/stem_academy_hints.ipynb",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-02T23:31:47.100982Z",
+      "created": "2022-08-03T00:42:54.294671Z",
       "format": null,
-      "last_modified": "2022-08-02T23:30:29.303439Z",
+      "last_modified": "2022-08-03T00:41:27.279161Z",
       "mimetype": null,
       "name": "stem_academy.ipynb",
       "path": "compaslab/activities/stem_academy.ipynb",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-02T23:31:47.100982Z",
+      "created": "2022-08-03T00:42:54.294671Z",
       "format": null,
-      "last_modified": "2022-08-02T23:30:29.303439Z",
+      "last_modified": "2022-08-03T00:41:27.279161Z",
       "mimetype": null,
       "name": "source_activity.ipynb",
       "path": "compaslab/activities/source_activity.ipynb",
@@ -62,9 +62,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-02T23:31:47.100982Z",
+      "created": "2022-08-03T00:42:54.294671Z",
       "format": null,
-      "last_modified": "2022-08-02T23:30:29.303439Z",
+      "last_modified": "2022-08-03T00:41:27.279161Z",
       "mimetype": "text/markdown",
       "name": "source_activity.md",
       "path": "compaslab/activities/source_activity.md",
@@ -73,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-02T23:31:47.104982Z",
+  "created": "2022-08-03T00:42:54.294671Z",
   "format": "json",
-  "last_modified": "2022-08-02T23:31:47.104982Z",
+  "last_modified": "2022-08-03T00:42:54.294671Z",
   "mimetype": null,
   "name": "activities",
   "path": "compaslab/activities",

@@ -1,0 +1,28 @@
+{
+  "compaslab": {
+    "releases": {
+      "0.1": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "4a6ea1844564a62c8b858c85b4a58535",
+            "sha256": "6c74fe946f7b5ac8e972de111f0e8086be8fb84f9d2068b9dade8f474778766b"
+          },
+          "downloads": -1,
+          "filename": "compaslab-0.1-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "4a6ea1844564a62c8b858c85b4a58535",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": null,
+          "size": 4817,
+          "upload_time": "2022-08-03T00:42:51.506428Z",
+          "upload_time_iso_8601": "2022-08-03T00:42:51.506428Z",
+          "url": "./compaslab-0.1-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  }
+}
